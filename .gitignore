@@ -1,0 +1,44 @@
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+
+# Model binaries / serialized objects
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.onnx
+
+# Generated manuscript-scale outputs
+outputs/
+results/
+
+# Restricted/raw study data (never commit to the public repository)
+data/raw/
+data/private/
+data/restricted/
+
+# OS files
+.DS_Store
+Thumbs.db

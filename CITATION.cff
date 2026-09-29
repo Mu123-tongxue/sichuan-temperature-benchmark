@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript and this software release."
+title: "Physics-informed and hybrid residual-learning models for deep formation temperature prediction in the Sichuan Basin: benchmarking against physics-based and machine-learning methods"
+type: software
+version: 1.0.0
+date-released: 2026-09-29
+authors:
+  - family-names: Mou
+    given-names: Feisheng
+  - family-names: Zuo
+    given-names: Yinhui
+  - family-names: Yang
+    given-names: Junxi
+  - family-names: Chen
+    given-names: Qinglai
+  - family-names: Zhang
+    given-names: Junlong
+  - family-names: Jing
+    given-names: Hao
+  - family-names: Zhang
+    given-names: Luquan
+  - family-names: Wang
+    given-names: Xinglong
+  - family-names: Li
+    given-names: Shengle
+  - family-names: Zhang
+    given-names: Chenqu
+  - family-names: Cui
+    given-names: Longqing
+abstract: >-
+  Software accompanying the manuscript "Physics-informed and hybrid residual-learning
+  models for deep formation temperature prediction in the Sichuan Basin: benchmarking
+  against physics-based and machine-learning methods." The repository implements the
+  layered conductive baseline, surrogate-assisted thermophysical calibration, a
+  physics-informed neural network, hybrid PINN-XGBoost residual correction, and SHAP
+  interpretation used in the unified benchmark.
+license: MIT
